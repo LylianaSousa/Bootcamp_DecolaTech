@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/home/lyliana/.dotnet/store/|arch|/|tfm|",
+      "/home/lyliana/.nuget/packages"
+    ]
+  }
+}

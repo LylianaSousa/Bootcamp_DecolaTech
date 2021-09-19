@@ -1,0 +1,13 @@
+/home/lyliana/DigitalInnovationONe/CadastrodeSéries/bin/Debug/netcoreapp3.1/CadastrodeSéries
+/home/lyliana/DigitalInnovationONe/CadastrodeSéries/bin/Debug/netcoreapp3.1/CadastrodeSéries.deps.json
+/home/lyliana/DigitalInnovationONe/CadastrodeSéries/bin/Debug/netcoreapp3.1/CadastrodeSéries.runtimeconfig.json
+/home/lyliana/DigitalInnovationONe/CadastrodeSéries/bin/Debug/netcoreapp3.1/CadastrodeSéries.runtimeconfig.dev.json
+/home/lyliana/DigitalInnovationONe/CadastrodeSéries/bin/Debug/netcoreapp3.1/CadastrodeSéries.dll
+/home/lyliana/DigitalInnovationONe/CadastrodeSéries/bin/Debug/netcoreapp3.1/CadastrodeSéries.pdb
+/home/lyliana/DigitalInnovationONe/CadastrodeSéries/obj/Debug/netcoreapp3.1/CadastrodeSéries.csprojAssemblyReference.cache
+/home/lyliana/DigitalInnovationONe/CadastrodeSéries/obj/Debug/netcoreapp3.1/CadastrodeSéries.AssemblyInfoInputs.cache
+/home/lyliana/DigitalInnovationONe/CadastrodeSéries/obj/Debug/netcoreapp3.1/CadastrodeSéries.AssemblyInfo.cs
+/home/lyliana/DigitalInnovationONe/CadastrodeSéries/obj/Debug/netcoreapp3.1/CadastrodeSéries.csproj.CoreCompileInputs.cache
+/home/lyliana/DigitalInnovationONe/CadastrodeSéries/obj/Debug/netcoreapp3.1/CadastrodeSéries.dll
+/home/lyliana/DigitalInnovationONe/CadastrodeSéries/obj/Debug/netcoreapp3.1/CadastrodeSéries.pdb
+/home/lyliana/DigitalInnovationONe/CadastrodeSéries/obj/Debug/netcoreapp3.1/CadastrodeSéries.genruntimeconfig.cache
