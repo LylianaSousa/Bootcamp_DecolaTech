@@ -1,0 +1,67 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/lyliana/Downloads/463794e1-f381-46c9-85f4-3bdd2b4ba572/ApiCatalogoJogos-master/ExemploApiCatalogoJogos/ExemploApiCatalogoJogos.csproj": {}
+  },
+  "projects": {
+    "/home/lyliana/Downloads/463794e1-f381-46c9-85f4-3bdd2b4ba572/ApiCatalogoJogos-master/ExemploApiCatalogoJogos/ExemploApiCatalogoJogos.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/lyliana/Downloads/463794e1-f381-46c9-85f4-3bdd2b4ba572/ApiCatalogoJogos-master/ExemploApiCatalogoJogos/ExemploApiCatalogoJogos.csproj",
+        "projectName": "ExemploApiCatalogoJogos",
+        "projectPath": "/home/lyliana/Downloads/463794e1-f381-46c9-85f4-3bdd2b4ba572/ApiCatalogoJogos-master/ExemploApiCatalogoJogos/ExemploApiCatalogoJogos.csproj",
+        "packagesPath": "/home/lyliana/.nuget/packages/",
+        "outputPath": "/home/lyliana/Downloads/463794e1-f381-46c9-85f4-3bdd2b4ba572/ApiCatalogoJogos-master/ExemploApiCatalogoJogos/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/lyliana/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[5.0.1, )",
+              "noWarn": [
+                "NU1605"
+              ]
+            },
+            "Microsoft.AspNetCore.Authentication.OpenIdConnect": {
+              "target": "Package",
+              "version": "[5.0.1, )",
+              "noWarn": [
+                "NU1605"
+              ]
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.6.3, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.2, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.413/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
